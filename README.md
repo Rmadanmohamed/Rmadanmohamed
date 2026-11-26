@@ -2,7 +2,7 @@
 
 ![Ramadan Mohamed Hassan — AI Engineer and Scientific Researcher](assets/banner.svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge)](https://www.linkedin.com/in/ramadan-mohamed-657686365) [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge)](https://github.com/Rmadanmohamed/ramadan-mohamed-ai-portfolio) [![Elsevier](https://img.shields.io/badge/Elsevier-2563EB?style=for-the-badge)](https://doi.org/10.1016/j.iot.2026.102025) [![Springer](https://img.shields.io/badge/Springer-2563EB?style=for-the-badge)](https://doi.org/10.1007/978-3-032-15784-3_28)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge)](https://www.linkedin.com/in/ramadan-mohamed-89085a366/) [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge)](https://ramadan-ai-portfolio.vercel.app/) [![Elsevier](https://img.shields.io/badge/Elsevier-2563EB?style=for-the-badge)](https://www.sciencedirect.com/science/article/pii/S2542660526001551) [![Springer](https://img.shields.io/badge/Springer-2563EB?style=for-the-badge)](https://link.springer.com/chapter/10.1007/978-3-032-15784-3_28)
 
 </div>
 
@@ -14,8 +14,8 @@ AI Engineer and scientific research co-author with a B.Sc. in Computer Science (
 
 | Publication | Publisher |
 | --- | --- |
-| **An Edge–Cloud AI–Robotics Framework with Blockchain-Based Validation for Crop Yield Prediction and Plant Health Monitoring** | Elsevier, *Internet of Things*, 39, 102025 (2026). [Read paper / DOI](https://doi.org/10.1016/j.iot.2026.102025) |
-| **Hybrid Random Walk-Dijkstra Approach for Efficient Coverage Path Planning in Robotics** | Springer, ISBCom 2025 proceedings, published 2026. [Read paper / DOI](https://doi.org/10.1007/978-3-032-15784-3_28) |
+| **An Edge–Cloud AI–Robotics Framework with Blockchain-Based Validation for Crop Yield Prediction and Plant Health Monitoring** | Elsevier, *Internet of Things*, 39, 102025 (2026). [Read paper / DOI](https://www.sciencedirect.com/science/article/pii/S2542660526001551) |
+| **Hybrid Random Walk-Dijkstra Approach for Efficient Coverage Path Planning in Robotics** | Springer, ISBCom 2025 proceedings, published 2026. [Read paper / DOI](https://link.springer.com/chapter/10.1007/978-3-032-15784-3_28) |
 
 **Research interests:** AI, autonomous robotics, blockchain, IoT, edge–cloud computing, computer vision and optimization.
 
@@ -48,6 +48,6 @@ AI Engineer and scientific research co-author with a B.Sc. in Computer Science (
 
 <div align="center">
 
-**Explore my [full engineering portfolio](https://github.com/Rmadanmohamed/ramadan-mohamed-ai-portfolio) or [connect on LinkedIn](https://www.linkedin.com/in/ramadan-mohamed-657686365).**
+**Explore my [full engineering portfolio](https://ramadan-ai-portfolio.vercel.app/) or [connect on LinkedIn](https://www.linkedin.com/in/ramadan-mohamed-89085a366/).**
 
 </div>
